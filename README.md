@@ -1,4 +1,11 @@
-# AITS associates project submission guidelines
+# AITS associates project
+Make sure, you put your best work forward. Some of these papers will have chance to be featured in [AITS Summit 2019](http://ai-techsystems.com/summit)
+
+## AITS Peer Review Committee 
+1. Atharva Joshi
+2. Shivangi Srivastava
+3. Suyash Chaudhary
+4. Harsh Bansal
 
 ## Steps to submit your project
 1. Open your browser and go to https://github.com/ai-techsystems/internShowcase.git
